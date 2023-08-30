@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Pavel Lesyuk</string>
+    <string name="title">Senior QA Engineer</string>
+    <string name="phone_number">+7 (977) 709-79-67</string>
+    <string name="telegram_link">\@lesyuk</string>
+    <string name="email">paul.lesyuk@gmail.com</string>
+</resources>
